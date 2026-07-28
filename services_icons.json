@@ -1,0 +1,50 @@
+{
+  "name": "Extra Services",
+  "description": "",
+  "icons": [
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/Junior2237/uhf-custom-logos/main/logos/netflix.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/Junior2237/uhf-custom-logos/main/logos/Disney%202.png"
+    },
+    {
+      "name": "Prime Video",
+      "url": "https://raw.githubusercontent.com/Junior2237/uhf-custom-logos/main/logos/prime%20video.png"
+    },
+    {
+      "name": "Apple TV",
+      "url": "https://raw.githubusercontent.com/Junior2237/uhf-custom-logos/main/logos/apple-tv-logo.png"
+    },
+    {
+      "name": "Crunchyroll",
+      "url": "https://raw.githubusercontent.com/Junior2237/uhf-custom-logos/main/logos/crunchyroll-logo-0.png"
+    },
+    {
+      "name": "Angel Studios",
+      "url": "https://raw.githubusercontent.com/Junior2237/uhf-custom-logos/main/logos/Angel-logo-copper_4x.png"
+    },
+    {
+      "name": "Discovery Plus",
+      "url": "https://raw.githubusercontent.com/Junior2237/uhf-custom-logos/main/logos/discovery-plus-logo.png"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/Junior2237/uhf-custom-logos/main/logos/Hulu.png"
+    },
+    {
+      "name": "HBO Max",
+      "url": "https://raw.githubusercontent.com/Junior2237/uhf-custom-logos/main/logos/hbo_max_logo__twbc_au__by_potolo2009_dj7zbew-fullview.png"
+    },
+    {
+      "name": "Paramount Plus",
+      "url": "https://raw.githubusercontent.com/Junior2237/uhf-custom-logos/main/logos/paramount-plus-logo-1.png"
+    },
+    {
+      "name": "Peacock",
+      "url": "https://raw.githubusercontent.com/Junior2237/uhf-custom-logos/main/logos/peacock.png"
+    }
+  ]
+}
